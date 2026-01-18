@@ -6,7 +6,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "binary": "node ./algorithms/binary/index.js"
+    "binary": "node ./algorithms/binary/index.js",
+    "selection-sort": "node ./algorithms/selection-sort/index.js",
+    "recursive-sum": "node ./algorithms/recursion/sum/index.js",
+    "recursive-count": "node ./algorithms/recursion/counter/index.js"
   },
   "author": "",
   "license": "ISC"
