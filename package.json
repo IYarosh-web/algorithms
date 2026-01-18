@@ -10,7 +10,8 @@
     "selection-sort": "node ./algorithms/selection-sort/index.js",
     "recursive-sum": "node ./algorithms/recursion/sum/index.js",
     "recursive-count": "node ./algorithms/recursion/counter/index.js",
-    "recursive-biggest": "node ./algorithms/recursion/biggest/index.js"
+    "recursive-biggest": "node ./algorithms/recursion/biggest/index.js",
+    "quicksort": "node ./algorithms/quicksort/index.js"
   },
   "author": "",
   "license": "ISC"
