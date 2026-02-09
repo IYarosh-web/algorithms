@@ -14,7 +14,8 @@
     "quicksort": "node ./algorithms/quicksort/index.js",
     "bfs": "node ./algorithms/bfs/index.js",
     "dfs": "node ./algorithms/dfs/index.js",
-    "bst-tree": "node ./algorithms/bst-tree/index.js"
+    "bst-tree": "node ./algorithms/bst-tree/index.js",
+    "dejkstra": "node ./algorithms/dejkstra/index.js"
   },
   "author": "",
   "license": "ISC"
